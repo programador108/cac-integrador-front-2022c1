@@ -1,0 +1,63 @@
+#navbarText{
+
+    justify-content: right;
+    padding-right: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#verd{
+    color: rgb(3, 187, 3) !important;
+}
+
+
+
+
+a{
+    color: blue;
+}
+.navbar {
+background-color: rgb(70, 69, 69) !important;}
+
+.navbar li a{
+    color: rgb(180, 178, 178) !important;
+
+}
+.navbar li a:hover{
+    color: white !important;
+
+}
+#codo{
+
+    height: 50px;
+    padding-left: 105px;
+}
+#conf{
+    color:white ;
+}
+.container-fluid{
+    background-image:url(/img/ba1.jpg);
+    height: 500px;
+    max-width:auto;
+}
+#conoce{
+    padding-left: 45%;
+    padding-top: 10px;
+}
+#textoBlanco{
+    color: white;
+    position:absolute;
+    padding-top: 50px;
+}
+
+.card-footer{
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    background-color: white;
+    border-color: white;
+    border-right-color: blue;
+}
+
+#conteinerTextoBlanco{
+
+    position: relative;
+}
