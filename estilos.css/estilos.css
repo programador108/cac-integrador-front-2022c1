@@ -35,7 +35,7 @@ background-color: rgb(70, 69, 69) !important;}
     color:white ;
 }
 .container-fluid{
-    background-image:url(/img/ba1.jpg);
+    background-image:url(../img/ba1.jpg);
     height: 500px;
     max-width:auto;
 }
