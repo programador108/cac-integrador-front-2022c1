@@ -61,3 +61,38 @@ background-color: rgb(70, 69, 69) !important;}
 
     position: relative;
 }
+
+
+
+/*---------- tickets*/
+.card {
+    margin-top: 100px;
+    padding: 20px;
+    text-align: center;
+    border-style:solid;
+
+       
+}
+.pD{
+
+    color:grey; font-size: 0.8rem;
+}
+
+
+.uno{
+    border-color:rgb(0, 0, 245);
+}
+.dos{
+    border-color:rgb(3, 248, 24);
+}
+.tres{
+    border-color:rgb(255, 238, 6);
+
+}
+
+#totalPagar{
+    background-color: rgba(46, 144, 248, 0.651);
+    padding: 15px;
+    color:white;
+    margin-top: 20px;
+}
